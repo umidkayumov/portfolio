@@ -26,25 +26,25 @@ export const projects = [
   {
     title: "Next.js Landing Page",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+      "In this project I use Next.js and styled components, as Animation framework I use Framer Motion",
     image: "/images/agency-modern.png",
     github: "/images/github.svg",
     eye: "/images/eye.png",
-    tags: ["React", "WebRTC"],
+    tags: ["React.js", "Next.js", "Framer Motion"],
     source: "https://github.com/hopekayumov/landing.uz",
     visit: "https://startup-agency-modern.vercel.app/",
     id: 2,
   },
   {
-    title: "Unichat",
+    title: "Planets website",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: "/images/4.jpg",
+      "This is my first Vue.js project, and I use Scss, components, and Vue-router, as API I use fake Json server",
+    image: "/images/planets.jpg",
     github: "/images/github.svg",
     eye: "/images/eye.png",
-    tags: ["React", "ChatEngine", "Firebase"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    tags: ["Vue.js", "Scss", "Router"],
+    source: "https://github.com/hopekayumov/planets",
+    visit: "https://planets-factsuz.netlify.app/",
     id: 3,
   },
 ];
